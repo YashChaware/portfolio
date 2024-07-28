@@ -4,6 +4,7 @@ import freshBurger from'../../assets/Snake.png'
 import hipsstor from '../../assets/Calculator.png'
 import fitlift from '../../assets/bottle.png.webp'
 import ProjectCards from '../../common/ProjectCards'
+import Jarvis from'../../assets/JARVIS.png'
 
 const projects = () => {
   return (
@@ -17,6 +18,8 @@ const projects = () => {
         <ProjectCards src={hipsstor} h3="Calculator" p='Calculator' link="https://github.com/YashChaware/Calculator"/>
 
         <ProjectCards src={fitlift} h3="Coca Cola" p='Landing Page' link="https://github.com/YashChaware/Landing_Page"/>
+        
+        <ProjectCards src={Jarvis} h3="J.A.R.V.I.S" p='Ai assistant' link="https://github.com/YashChaware/Jarvis"/>
 
       </div>
       </section>
