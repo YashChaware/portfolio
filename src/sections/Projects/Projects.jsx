@@ -13,7 +13,7 @@ const projects = () => {
       <div className={styles.projectsContainer}>
         <ProjectCards src={Vibber} h3="Rahul Electricals" p='Sponser website' link="https://github.com/YashChaware/Rahul_Electricals_web"/>
 
-        <ProjectCards src={freshBurger} h3=" Snakes" p='Snake Game' link="https://github.com/YashChaware/Python-MiniProject-main"/>
+        <ProjectCards src={freshBurger} h3=" Snakes" p='Snake Game' link="https://github.com/YashChaware/SNAKES"/>
 
         <ProjectCards src={hipsstor} h3="Calculator" p='Calculator' link="https://github.com/YashChaware/Calculator"/>
 
