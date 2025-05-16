@@ -22,7 +22,7 @@ const projects = () => {
         
         <ProjectCards src={Jarvis} h3="J.A.R.V.I.S" p='Ai assistant' link="https://github.com/YashChaware/Jarvis"/>
 
-        <ProjectCards src={vc} h3="J.A.R.V.I.S" p='video calling app' link="https://github.com/YashChaware/WEBRTC"/>
+        <ProjectCards src={vc} h3="Call it" p='video calling app' link="https://github.com/YashChaware/WEBRTC"/>
 
       </div>
       </section>
