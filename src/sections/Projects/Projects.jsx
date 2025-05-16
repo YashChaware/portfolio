@@ -5,7 +5,7 @@ import hipsstor from '../../assets/Calculator.png'
 import fitlift from '../../assets/bottle.png.webp'
 import ProjectCards from '../../common/ProjectCards'
 import Jarvis from'../../assets/JARVIS.png'
-import vc from'../../assets/VideoCall.png'
+import vc from'../../assets/OIP.ico'
 
 const projects = () => {
   return (
